@@ -2,6 +2,6 @@
   "versionName": "1.2.1",
   "versionCode": 57,
   "architecture": "arm64-v8a",
-  "apk": "https://github.com/Tabasaran77/KandikVPN-Releases/raw/main/KandikVPN-v1.2.1-arm64.apk",
+  "apk": "https://github.com/Tabasaran77/KandikVPN-Releases/releases/download/v1.2.1/KandikVPN-v1.2.1-arm64.apk",
   "sha256": "8c3e356c368002f95d82eaaa9bbc51f3563a71b66e9a1318101610590160c23c"
 }
